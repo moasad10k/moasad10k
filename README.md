@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Asad! <br/><a href="https://github.com/moasad10k"></a>
+  
+<h2> 🖳 IT Projects :</h2>
+
+- <b>Active Directory Home Lab (Oracle VirtualBox) </b>
+  - [Domain Controller And Client Setup]()
+- <b>Cisco Inter VLAN Routing And Network Configuration Lab (Packet Tracer) </b>
+  - [Router On A Stick (ROAS) Configuration]()
+
+<!--
 
 <!--
 **moasad10k/moasad10k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
