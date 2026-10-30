@@ -3,9 +3,9 @@
 <h2> 🖳 IT Projects :</h2>
 
 - <b>Active Directory Home Lab (Oracle VirtualBox) </b>
-  - [Domain Controller And Client Setup]()
+  - [Domain Controller And Client Setup](github/url)
 - <b>Cisco Inter VLAN Routing And Network Configuration Lab (Packet Tracer) </b>
-  - [Router On A Stick (ROAS) Configuration]()
+  - [Router On A Stick (ROAS) Configuration](github/url)
 
 <!--
 
