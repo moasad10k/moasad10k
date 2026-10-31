@@ -2,10 +2,9 @@
   
 <h2> 🖳 IT Projects :</h2>
 
-- <b>Active Directory Home Lab (Oracle VirtualBox) </b>
-  - [Domain Controller And Client Setup](https://github.com/moasad10k/ActiveDirectoryLab)
-- <b>Cisco Inter VLAN Routing And Network Configuration Lab (Packet Tracer) </b>
-  - [Router On A Stick (ROAS) Configuration](https://github.com/moasad10k/interVLANLab)
+- <b> [Active Directory Home Lab (Oracle VirtualBox)](https://github.com/moasad10k/ActiveDirectoryLab) </b>
+
+- <b> [Cisco Inter VLAN Routing And Network Configuration Lab (Packet Tracer)](https://github.com/moasad10k/interVLANLab) </b>
 
 <!--
 
