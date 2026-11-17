@@ -1,6 +1,6 @@
 <h1> Hi, I'm Asad! </h1>
   
-<h2> IT Projects :</h2>
+<h2> 💻 IT Projects :</h2>
 
 - <b> [Active Directory Home Lab (Oracle VirtualBox)](https://github.com/moasad10k/ActiveDirectoryLab) </b>
 
