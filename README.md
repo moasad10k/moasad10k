@@ -6,7 +6,7 @@
 
 - <b> [Cisco Inter VLAN Routing And Network Configuration Lab (Packet Tracer)](https://github.com/moasad10k/interVLANLab) </b>
 
-- <b> [Jira Service Desk Lab](https://github.com/moasad10k/JiraServiceDeskLab) </b>
+- <b> [Jira Service Desk Lab (Jira Service Management)](https://github.com/moasad10k/JiraServiceDeskLab) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
