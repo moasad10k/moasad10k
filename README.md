@@ -6,6 +6,8 @@
 
 - <b> [Cisco Inter VLAN Routing And Network Configuration Lab (Packet Tracer)](https://github.com/moasad10k/interVLANLab) </b>
 
+- <b> [Jira Service Desk Lab](https://github.com/moasad10k/JiraServiceDeskLab) </b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MuhammadAsad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
